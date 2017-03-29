@@ -1,0 +1,13 @@
+{
+    "jira_username": "",
+    "jira_password": "",
+    "jira_api": "",
+    "jira_author_name": "",
+    "jira_remotelink":"/remotelink",
+    "swarm_server":"",
+    "swarm_activity": "/api/v5/activity?max=100",
+    "swarm_user_stream": "&stream=user-",
+    "swarm_username": "",
+    "swarm_password": "",
+    "swarm_jira_start": 
+}
